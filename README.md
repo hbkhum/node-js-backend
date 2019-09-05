@@ -1,3 +1,6 @@
+ ![alt text](https://github.com/hbkhum/node-js-backend/blob/master/node.png) 
+
+
 # 1.Node Js
 Currently is very import to test the codes each stage, this is possible using the SOLID fundamentals with the help of the typescript, also is very 
 important the architecture to use, for this project I using Onion Architecture.
