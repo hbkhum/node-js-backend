@@ -43,7 +43,7 @@ It has the following characteristics:
 **1.- TypeORM**
 
 
-Is a backend where you can create differents frontend as Mobile Apps, WPF Apps and Web Apps (Arngular, React, Nodejs, Python)
+Is a backend where you can create differents frontend as Mobile Apps, WPF Apps and Web Apps (Angular, React, Nodejs, Python)
 
 ___For this project I used Abstract class, Interfaces, Generic Class, IoC and Async Methods.___
 
